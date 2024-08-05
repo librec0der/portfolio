@@ -1,28 +1,30 @@
 ---
 title: "Privacy Policy"
-date: "03/07/2024"
+date: "06/08/2024"
 ---
 
-This Privacy Policy governs the manner in which [Your Company Name] collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Website URL] website ("Site"). This privacy policy applies to the Site and all products and services offered by [Your Company Name].
+This Privacy Policy describes how we handle personal data when you use our software. We are committed to protecting your privacy and ensuring that your personal information is handled securely.
 
-#### Personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+## 1. Information We Collect
 
-#### Non-personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+We do not collect, store, or process any personal data from users of our software. We are committed to providing a service that respects user privacy.
 
-#### Web browser cookies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+## 2. Use of Information
 
-#### How we use collected information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+Since we do not collect any personal information, we do not use any data for marketing or advertising purposes. Our software is provided as-is without any tracking mechanisms.
 
-#### How we protect your information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+## 3. Data Security
 
-#### Sharing your personal information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+While we do not collect personal data, we take security seriously and strive to maintain the integrity of our software. However, we cannot guarantee the absolute security of our applications.
 
-#### Changes to this privacy policy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+## 4. Third-Party Services
 
+Our software may contain links to third-party websites or services. We are not responsible for the privacy practices of these third-party sites. We encourage you to review the privacy policies of any third-party sites you visit.
+
+## 5. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Your continued use of the software after changes are made constitutes your acceptance of the new policy.
+
+## 6. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at librec0der@proton.me.
